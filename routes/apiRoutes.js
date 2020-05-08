@@ -31,6 +31,9 @@ module.exports = function (app) {
                 notesDB.splice(i, 1);
             }
         }
+        fs.writeFile((path.join(__dirname, "../database/db.json")), JSON.stringify(notesDB), function (err) {
+            if (err) return console.log(err);
+        })
         res.json(notesDB)
     });
 }
