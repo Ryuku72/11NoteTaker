@@ -22,24 +22,22 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ### Business Context
 For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
 
-## Key Concepts for HomeworkW10
-> * http
-> * Express.js
-> * Routing - Get, Post, Delete
-> * Postman
-> * HTTP POST requests
-> * Express.static()
+## Key Concepts
+* http
+* Express.js
+* Routing - Get, Post, Delete
+* Postman
+* HTTP POST requests
+* Express.static()
 
 ## Contents
-* [Build Process](#Build_Process)
-* [Project Issues](#Project_Issues)
-* [Future Plans](#future)
-* [Installation](#Installation)
-* [Usuage](#Usuage)
-* [Tests](#Tests)
-* [Additional_Information](#Additional_Information)
-
-
+1. [Build Process](#Build_Process)
+2. [Project Issues](#Project_Issues)
+3. [Future Plans](#future)
+4. [Installation](#Installation)
+5. [Usuage](#Usuage)
+6. [Tests](#Tests)
+7. [Additional_Information](#Additional_Information)
 
 <a name="Build_Process">
 
