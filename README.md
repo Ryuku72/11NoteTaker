@@ -1,25 +1,26 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/Ryuku72/HomeworkW11?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Ryuku72/HomeworkW11?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/Ryuku72/HomeworkW11?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ryuku72/11NoteTaker?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Ryuku72/11NoteTaker1?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/Ryuku72/11NoteTaker?style=for-the-badge)
 
-# Unit 11 Express Homework: Note Taker
+# Note Taker
+__PROJECT11: 9TH MAY 20__
+<br>
+https://fathomless-ocean-28827.herokuapp.com/notes
 
-
-# HomeWork Week 11
-## Express Note Taker
-9th May 2020
-
-
-### Aim
+## Aim
 This week we learned about Express, Heroku and servers. With knowledge this weeks tast was to build upon a pre constructed front end website and allow it to run on both localhost and Heroku. The project was a note taker app. 
 
-
-
 ### Working Project Example
-* Heroku deployment https://fathomless-ocean-28827.herokuapp.com/notes
-* YouTube Video https://youtu.be/FMc9-VJT15g
+* Heroku: https://fathomless-ocean-28827.herokuapp.com/notes
+* YouTube Walkthrough: https://youtu.be/FMc9-VJT15g
 
+### User Story
+AS A user, I want to be able to write and save notes
+I WANT to be able to delete notes I've written before
+SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
+### Business Context
+For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
 
 ## Key Concepts for HomeworkW10
 > * http
@@ -29,7 +30,6 @@ This week we learned about Express, Heroku and servers. With knowledge this week
 > * HTTP POST requests
 > * Express.static()
 
- 
 ## Contents
 * [Build Process](#Build_Process)
 * [Project Issues](#Project_Issues)
@@ -99,7 +99,6 @@ $ node server.js
 
 2. Open your local host to the stated Port address 
 
-
 <a name="Usuage">
 
 ## Usuage 
@@ -126,8 +125,6 @@ Licenses: MIT.
 * Youtube tutorials
 * Dillinger.io
 * Heroku
-
-
 
 ### Technology
 * PhotoShop
