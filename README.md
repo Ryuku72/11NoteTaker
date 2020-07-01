@@ -39,8 +39,6 @@ This week we learned about Express, Heroku and servers. With knowledge this week
 * [Tests](#Tests)
 * [Additional_Information](#Additional_Information)
 
-
-
 <a name="Build_Process">
 
 ## Build Process 
